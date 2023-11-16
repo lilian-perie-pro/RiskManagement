@@ -22,12 +22,10 @@ mta_archives/
 .DS_Store
 *.orig
 *.log
-
 *.iml
 *.flattened-pom.xml
 
 # IDEs
 # .vscode
 # .idea
-
 .env
